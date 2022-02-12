@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolioreactapp/static/css/main.7a675ffb.css",
+    "main.js": "/portfolioreactapp/static/js/main.76e8e5fd.js",
+    "static/js/787.280e6fbd.chunk.js": "/portfolioreactapp/static/js/787.280e6fbd.chunk.js",
+    "static/media/commerce.png": "/portfolioreactapp/static/media/commerce.c8d84682490d361e72f8.png",
+    "static/media/g1.jfif": "/portfolioreactapp/static/media/g1.ba703117229d68c7de7d.jfif",
+    "static/media/g2.png": "/portfolioreactapp/static/media/g2.3fcd87076bf532436d90.png",
+    "static/media/boots1.png": "/portfolioreactapp/static/media/boots1.f0ccc1010c368be27f32.png",
+    "static/media/css1.png": "/portfolioreactapp/static/media/css1.4e9aba46527b9135aeaf.png",
+    "static/media/figma1.png": "/portfolioreactapp/static/media/figma1.5283f151bb2e41621a9b.png",
+    "static/media/add1.png": "/portfolioreactapp/static/media/add1.551c97005221a2aa07d7.png",
+    "static/media/v1.png": "/portfolioreactapp/static/media/v1.4c2ef0dae2ea986c7762.png",
+    "static/media/word1.png": "/portfolioreactapp/static/media/word1.64090bc6fa3367925d3a.png",
+    "static/media/react1.png": "/portfolioreactapp/static/media/react1.1f02ef6cc5ef7981dca3.png",
+    "static/media/sass1.png": "/portfolioreactapp/static/media/sass1.b646b54ae7b4aa87c577.png",
+    "static/media/ph1.png": "/portfolioreactapp/static/media/ph1.ac2c2452ccb18f03eaba.png",
+    "static/media/xd1.png": "/portfolioreactapp/static/media/xd1.a2e4f5b75875d4e72cb3.png",
+    "static/media/m1.png": "/portfolioreactapp/static/media/m1.a94f3d9ff35209f526ec.png",
+    "static/media/html1.png": "/portfolioreactapp/static/media/html1.ed85967dac64fdce9759.png",
+    "index.html": "/portfolioreactapp/index.html",
+    "main.7a675ffb.css.map": "/portfolioreactapp/static/css/main.7a675ffb.css.map",
+    "main.76e8e5fd.js.map": "/portfolioreactapp/static/js/main.76e8e5fd.js.map",
+    "787.280e6fbd.chunk.js.map": "/portfolioreactapp/static/js/787.280e6fbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a675ffb.css",
+    "static/js/main.76e8e5fd.js"
+  ]
+}
